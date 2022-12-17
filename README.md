@@ -14,7 +14,7 @@ you do:
 
 	pyimg4 im4p extract -i kernelcache -o kcache.raw
 
-HUGE THANKS TO **galaxy#6181**. Without him, I wouldn't have known all this to write a guide!
+HUGE THANKS TO **galaxy#0007**. Without her, I wouldn't have known all this to write a guide!
 
 # REQUIREMENTS:
 - irecovery
